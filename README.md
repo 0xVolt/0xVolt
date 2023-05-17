@@ -20,7 +20,7 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 ## University
 | **Repository** | **Description** |
-|:---:|:---:|
+|---|---|
 | [cemetery-of-culture](https://github.com/0xVolt/cemetery-of-culture) | A repository with all of the code I write over the course of my four years as a CSE undergrad |
 | [NLP-class-notebooks](https://github.com/0xVolt/NLP-class-notebooks) | A repository of notebooks from the IIIrd year's NLP Hons. course |
 
