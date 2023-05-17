@@ -7,7 +7,12 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
   - [Table of Contents](#table-of-contents)
   - [University](#university)
   - [Learn](#learn)
-  - [Data Analysis](#data-analysis)
+  - [Data Science](#data-science)
+    - [Computational Notebooks](#computational-notebooks)
+    - [Machine Learning](#machine-learning)
+    - [Deep Learning](#deep-learning)
+  - [Competitive Programming](#competitive-programming)
+  - [Other Projects](#other-projects)
 
 
 ## University
@@ -19,4 +24,14 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 ## Learn
 
-## Data Analysis
+## Data Science
+
+### Computational Notebooks
+
+### Machine Learning
+
+### Deep Learning
+
+## Competitive Programming
+
+## Other Projects
