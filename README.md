@@ -6,23 +6,23 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 - [Hello. My name is Desh Iyer](#hello-my-name-is-desh-iyer)
   - [Table of Contents](#table-of-contents)
   - [University](#university)
-  - [Learn](#learn)
   - [Data Science](#data-science)
     - [Computational Notebooks](#computational-notebooks)
     - [Machine Learning](#machine-learning)
     - [Deep Learning](#deep-learning)
+  - [Learn](#learn)
   - [Competitive Programming](#competitive-programming)
+  - [C++ Projects](#c-projects)
+  - [Config Files](#config-files)
   - [Other Projects](#other-projects)
 
+---
 
 ## University
 | **Repository** | **Description** |
 |:---:|:---:|
 | [cemetery-of-culture](https://github.com/0xVolt/cemetery-of-culture) | A repository with all of the code I write over the course of my four years as a CSE undergrad |
-|  |  |
-|  |  |
-
-## Learn
+| [NLP-class-notebooks](https://github.com/0xVolt/NLP-class-notebooks) | A repository of notebooks from the IIIrd year's NLP Hons. course |
 
 ## Data Science
 
@@ -32,6 +32,12 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 ### Deep Learning
 
+## Learn
+
 ## Competitive Programming
+
+## C++ Projects
+
+## Config Files
 
 ## Other Projects
