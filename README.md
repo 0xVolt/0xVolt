@@ -30,6 +30,10 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 |---|---|
 | [mall-sensor-occupancy-analytics](https://github.com/0xVolt/mall-sensor-occupancy-analytics) | A repository to perform the lowest level of data analytics humanely possible on data from an Arduino project that doesn't yet work |
 | [telecom-churn-rate-analysis ](https://github.com/0xVolt/telecom-churn-rate-analysis) | This repository contains analysis of the Telecom Churn Dataset, exploring customer behavior patterns and predicting churn using machine learning techniques |
+| [DNASCANNER] | An all-in-one tool that effectively performs text analysis on DNA sequences |
+| [loan-eligibility](https://github.com/0xVolt/loan-eligibility) | A repository to build a predictive model to automate the process of targeting the right applicants for a loan |
+| (exoplanet-analysis)[https://github.com/0xVolt/exoplanet-analysis] | An exploratory analysis of data from NASAs Exoplanet Archive |
+| (fraud-detection)[https://github.com/0xVolt/fraud-detection] | This minor project in machine learning deals with fraud detection of credit card details. It's got exploratory data analysis and data visualisation |
 
 ### Deep Learning
 | **Repository** | **Description** |
