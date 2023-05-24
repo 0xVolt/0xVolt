@@ -1,6 +1,8 @@
 ## Hello. My name is Desh Iyer.
 
-I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to graduate in 2024. I am passionate about HCI and the possibilities of positively influencing the world around us with machine learning. This `README` is a list of all the repositories of code pertaining to a multitude of domains. These repos are either on my GitHub or on other sites.
+I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to graduate in 2024. I am passionate about HCI and the possibilities of positively influencing the world around us with machine learning. 
+
+This `README` is a list of all the repositories of code pertaining to a multitude of domains. These repos are either on my GitHub or on other sites.
 
 ## Table of Contents
 - [1. Projects](#1-projects)
