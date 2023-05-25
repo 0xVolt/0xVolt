@@ -57,6 +57,7 @@ This `README` is a list of all the repositories of code pertaining to a multitud
 | **Repository** | **Description** |
 |---|---|
 | [learn-machine-learning](https://github.com/0xVolt/learn-machine-learning) | A repository to document studying various machine learning and deep learning concepts |
+| [learn-pytorch](https://github.com/0xVolt/learn-pytorch) | A repository to learn the building blocks of deep learning with the PyTorch deep learning framework |
 | [learn-cmake](https://github.com/0xVolt/learn-cmake) | A repository to learn how to compile C++ projects using cmake and make |
 | [learn-cmake-linux](https://github.com/0xVolt/learn-cmake-linux) | A repository to document the process of getting started with CMAKE on Linux |
 | [learn-rust](https://github.com/0xVolt/learn-rust) | An introduction to a shiny new language named Rust |
