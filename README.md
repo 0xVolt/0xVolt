@@ -69,7 +69,7 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 | **Repository** | **Description** |
 |---|---|
-| [learn-machine-learning](https://github.com/0xVolt/learn-machine-learning) | A repository to document studying various machine learning and deep learning concepts |
+<!-- | [learn-machine-learning](https://github.com/0xVolt/learn-machine-learning) | A repository to document studying various machine learning and deep learning concepts | -->
 | [learn-tensorflow](https://github.com/0xVolt/learn-tensorflow) | A repository to document learning Tensorflow, Google's end-to-end deep learning framework |
 | [learn-pytorch](https://github.com/0xVolt/learn-pytorch) | A repository to learn the building blocks of deep learning with the PyTorch deep learning framework |
 | [learn-cmake](https://github.com/0xVolt/learn-cmake) | A repository to learn how to compile C++ projects using cmake and make |
