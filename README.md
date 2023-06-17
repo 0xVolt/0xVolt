@@ -6,16 +6,18 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 ## Table of Contents
 
-- [1. Projects](#1-projects)
-- [2. University](#2-university)
-- [3. Computational Notebooks](#3-computational-notebooks)
-  - [3.1. Machine Learning and EDA](#31-machine-learning-and-eda)
-  - [3.2. Deep Learning](#32-deep-learning)
-- [4. Learn](#4-learn)
-- [5. C++](#5-c)
-- [6. Processing \& p5.js](#6-processing--p5js)
-- [7. Competitive Programming](#7-competitive-programming)
-- [8. Config Files](#8-config-files)
+| **#** | **Section** |
+| --- | --- |
+| 1 | [Projects](#1-projects) |
+| 2 | [University](#2-university) |
+| 3 | [Computational Notebooks](#3-computational-notebooks) |
+| 3.1 | [Machine Learning and EDA](#31-machine-learning-and-eda) |
+| 3.2 | [Deep Learning](#32-deep-learning) |
+| 4 | [Tutorials](#4-tutorials) |
+| 5 | [C++](#5-c) |
+| 6 | [Processing \& p5.js](#6-processing--p5js) |
+| 7 | [Competitive Programming](#7-competitive-programming) |
+| 8 | [Config Files](#8-config-files) |
 
 ***
 
@@ -65,7 +67,7 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 ***
 
-## 4. Learn
+## 4. Tutorials
 
 | **Repository** | **Description** |
 |---|---|
