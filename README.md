@@ -25,6 +25,7 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 | **Repository** | **Description** |
 |---|---|
+| [bayesian-rhapsody](https://github.com/0xVolt/bayesian-rhapsody) | A repository to design a deep neural network to compose music. Part of the 2023 IBM summer internship |
 | [splice-and-dice](https://github.com/0xVolt/splice-and-dice) | Modularizing Multi-Source Text Summarization with Transformer-based Deep Learning and NLP techniques in a Web Application |
 | [filter-coffee](https://github.com/0xVolt/filter-coffee) | A project to implement an FIR filter in C++ using a circular buffer for increased efficiency |
 | [dsp-with-JUCE](https://github.com/0xVolt/dsp-with-JUCE) | A project in the JUCE C++ framework to visualise different filters in real-time |
