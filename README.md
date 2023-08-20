@@ -95,7 +95,7 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 ***
 
-## 6. Processing & p5.js
+## 6. Creative Programming
 
 | **Repository** | **Description** |
 |---|---|
