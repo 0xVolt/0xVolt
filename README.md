@@ -25,6 +25,7 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 
 | **Repository** | **Description** |
 |---|---|
+| [whats-up-doc](https://github.com/0xVolt/whats-up-doc) | A command-line tool leveraging LangChain & LLMs for language-agnostic code documentation |
 | [bayesian-rhapsody](https://github.com/0xVolt/bayesian-rhapsody) | A repository to design a deep neural network to compose music. Part of the 2023 IBM summer internship |
 | [splice-and-dice](https://github.com/0xVolt/splice-and-dice) | Modularizing Multi-Source Text Summarization with Transformer-based Deep Learning and NLP techniques in a Web Application |
 | [filter-coffee](https://github.com/0xVolt/filter-coffee) | A project to implement an FIR filter in C++ using a circular buffer for increased efficiency |
@@ -75,6 +76,7 @@ I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to 
 | [art-of-machine-learning](https://github.com/0xVolt/art-of-machine-learning) | A repository to document the ideal approach to a machine learning problem |
 | [learn-tensorflow](https://github.com/0xVolt/learn-tensorflow) | A repository to document learning Tensorflow, Google's end-to-end deep learning framework |
 | [learn-pytorch](https://github.com/0xVolt/learn-pytorch) | A repository to learn the building blocks of deep learning with the PyTorch deep learning framework |
+| [learn-dsa](https://github.com/0xVolt/learn-dsa) | A repository of all the code I write studying data structures and algorithms |
 | [learn-cmake](https://github.com/0xVolt/learn-cmake) | A repository to learn how to compile C++ projects using cmake and make |
 | [learn-cmake-linux](https://github.com/0xVolt/learn-cmake-linux) | A repository to document the process of getting started with CMAKE on Linux |
 | [learn-rust](https://github.com/0xVolt/learn-rust) | An introduction to a shiny new language named Rust |
