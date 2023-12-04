@@ -1,6 +1,12 @@
-## Hey! My name's Desh Iyer.
+# Hi, I'm Desh Iyer.
 
-I am a B.Tech CSE Hons. student specialising in AI/ML at UPES, Dehradun, due to graduate in 2024. I am passionate about HCI and the possibilities of positively influencing the world around us with machine learning. This `README` is a list of all the repositories of code pertaining to a multitude of domains. These repos are either on my GitHub or on other sites.
+I'm a B.Tech. CSE Hons. student with a passion for the profound and transformative Free Energy Principle (FEP). This concept acts as a connective thread across the diverse domains of cognitive science, mathematics, philosophy, and AI, resonating with my belief that understanding the interplay between internal models and the external world is key to advancing artificial intelligence among other fields of study.
+
+During my internship at KEK, Japan, I witnessed the power of distributed computing in handling massive datasets, which undoubtedly broadened my perspective and fueled my passion for exploring the intersection of FEP and computational physics. My work at KEK involves the development of the BelleDIRAC framework, which, employed in high-energy physics experiments, relies on distributed computing to efficiently store an unfathomable amount of data across servers in institutions all over the world.
+
+This correlation between the FEP and distributed computing is more than just a research endeavor for me. It's a fascinating journey into the heart of AI, where the integration of insights from cognitive science, mathematics, and philosophy holds the promise of creating truly autonomous and sentient machines. This, to me, is not just about shaping the future of AI; it's about being a part of a breakthrough that transforms the way we perceive and interact with intelligent systems. I'm excited about contributing to this convergence of disciplines to hopefully make a meaningful impact on the landscape of artificial intelligence.
+
+This `README` is a list of all the repositories of code pertaining to a multitude of domains. These repos are either on my GitHub or on other sites.
 
 ***
 
