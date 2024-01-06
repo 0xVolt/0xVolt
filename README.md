@@ -18,8 +18,6 @@ This `README` is a list of all the repositories of code pertaining to a multitud
 
 ## Table of Contents
 
-- [Hi, I'm Desh Iyer.](#hi-im-desh-iyer)
-  - [Table of Contents](#table-of-contents)
 - [Projects](#projects)
   - [Large Language Modelling](#large-language-modelling)
   - [Music Composition](#music-composition)
