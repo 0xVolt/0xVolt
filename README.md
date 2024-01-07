@@ -105,7 +105,7 @@ This `README` is a list of all the repositories of code pertaining to a multitud
 
 | **Repository** | **Description** |
 |---|---|
-| [learn-dsa](https://github.com/0xVolt/learn-dsa) | A repository of all the code I write studying data structures and algorithms |
+| [dsa-prep](https://github.com/0xVolt/dsa-prep) | A repository of all the code I write studying data structures and algorithms |
 | [learn-cmake](https://github.com/0xVolt/learn-cmake) | A repository to learn how to compile C++ projects using cmake and make |
 | [learn-cmake-linux](https://github.com/0xVolt/learn-cmake-linux) | A repository to document the process of getting started with CMAKE on Linux |
 | [learn-rust](https://github.com/0xVolt/learn-rust) | An introduction to a shiny new language named Rust |
