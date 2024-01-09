@@ -100,6 +100,7 @@ This `README` is a list of all the repositories of code pertaining to a multitud
 | [art-of-machine-learning](https://github.com/0xVolt/art-of-machine-learning) | A repository to document the ideal approach to a machine learning problem |
 | [learn-tensorflow](https://github.com/0xVolt/learn-tensorflow) | A repository to document learning Tensorflow, Google's end-to-end deep learning framework |
 | [learn-pytorch](https://github.com/0xVolt/learn-pytorch) | A repository to learn the building blocks of deep learning with the PyTorch deep learning framework |
+| [install-llama-cpp](https://github.com/0xVolt/install-llama-cpp) | A repository with information on how to get llama-cpp setup with GPU acceleration |
 
 ## Programming and Tools
 
