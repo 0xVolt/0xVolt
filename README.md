@@ -119,6 +119,7 @@ This `README` is a list of all the repositories of code pertaining to a multitud
 | **Repository** | **Description** |
 |---|---|
 | [the-heart-of-mathematics](https://github.com/0xVolt/the-heart-of-mathematics) | Simulation of a cardioid using the p5.js library in JavaScript turned into an experiment in generative art |
+| [noisy-pixels](https://github.com/0xVolt/noisy-pixels) | A p5.js project to render perlin noise in 2D pixel space |
 | [pathfinding-with-processing](https://github.com/0xVolt/pathfinding-with-processing) | A visualisation of the A* pathfinding algorithm in p5js and Processing frameworks |
 
 # Competitive Programming
