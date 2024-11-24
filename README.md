@@ -6,11 +6,11 @@ layout: default
 
 # Hi, I'm Desh Iyer.
 
-I'm a B.Tech. CSE Hons. student with a passion for the profound and transformative Free Energy Principle (FEP). This concept acts as a connective thread across the diverse domains of cognitive science, mathematics, philosophy, and AI, resonating with my belief that understanding the interplay between internal models and the external world is key to advancing artificial intelligence among other fields of study.
+I am a software engineer and researcher passionate about artificial intelligence, machine learning, and distributed systems. With a B.Tech in Computer Science & Engineering (Hons.) specializing in AI/ML, I have gained experience in developing robust and efficient solutions for real-world challenges.
 
-During my internship at KEK, Japan, I witnessed the power of distributed computing in handling massive datasets, which undoubtedly broadened my perspective and fueled my passion for exploring the intersection of FEP and computational physics. My work at KEK involves the development of the BelleDIRAC framework, which, employed in high-energy physics experiments, relies on distributed computing to efficiently store an unfathomable amount of data across servers in institutions all over the world.
+I have contributed to high-impact projects, including distributed computing research at KEK and CERN and generative model optimization at IBM. My academic and professional journey has been shaped by an interest in algorithmic design, computational theories, and generative systems, which has resulted in projects such as automating code documentation with open-source LLMs and developing tools to streamline research workflows.
 
-This correlation between the FEP and distributed computing is more than just a research endeavor for me. It's a fascinating journey into the heart of AI, where the integration of insights from cognitive science, mathematics, and philosophy holds the promise of creating truly autonomous and sentient machines. This, to me, is not just about shaping the future of AI; it's about being a part of a breakthrough that transforms the way we perceive and interact with intelligent systems. I'm excited about contributing to this convergence of disciplines to hopefully make a meaningful impact on the landscape of artificial intelligence.
+I value collaboration, learning new things, and coming up with creative solutions to problems. My curiosity and passion for problem solving motivate me to contribute to the future of AI by developing systems that are clear, efficient, and meaningful. I'd love to connect and discuss ideas or opportunities in technology and research!
 
 This `README` is a list of all the repositories of code pertaining to a multitude of domains. These repos are either on my GitHub or on other sites.
 
