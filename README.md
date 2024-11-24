@@ -6,9 +6,9 @@ layout: default
 
 # Hi, I'm Desh Iyer.
 
-I am a software engineer and researcher passionate about artificial intelligence, machine learning, and distributed systems. With a B.Tech in Computer Science & Engineering (Hons.) specializing in AI/ML, I have gained experience in developing robust and efficient solutions for real-world challenges.
+I'm a software engineer and researcher passionate about artificial intelligence, machine learning, and distributed systems. With a B.Tech in Computer Science & Engineering (Hons.) specializing in AI/ML, I have gained experience in developing robust and efficient solutions for real-world challenges.
 
-I have contributed to high-impact projects, including distributed computing research at KEK and CERN and generative model optimization at IBM. My academic and professional journey has been shaped by an interest in algorithmic design, computational theories, and generative systems, which has resulted in projects such as automating code documentation with open-source LLMs and developing tools to streamline research workflows.
+I've contributed to high-impact projects, including distributed computing research at KEK and CERN and generative model optimization at IBM. My academic and professional journey has been shaped by an interest in algorithmic design, computational theories, and generative systems, which has resulted in projects such as automating code documentation with open-source LLMs and developing tools to streamline research workflows.
 
 I value collaboration, learning new things, and coming up with creative solutions to problems. My curiosity and passion for problem solving motivate me to contribute to the future of AI by developing systems that are clear, efficient, and meaningful. I'd love to connect and discuss ideas or opportunities in technology and research!
 
