@@ -89,7 +89,7 @@ This `README` is a list of all the repositories of code pertaining to a multitud
 | [train-and-save](https://github.com/0xVolt/train-and-save) | A repository that documents how a model is trained in one notebook and its weights exported and loaded into another notebook with Pytorch. The example is a BERT model for document classification |
 | [fine-tune-t5](https://github.com/0xVolt/fine-tune-t5) | A repository that takes a pre-trained T5 model from HuggingFace and fine-tunes it on a dataset of labelled newspaper articles for document classification |
 | [toxicity-detector-model](https://github.com/0xVolt/toxicity-detector-model) | A deep neural network model that detects toxic comments through multi-binary classification hosted on a Gradio application |
-| [deepfit-esque](https://github.com/0xVolt/DNASCANNER) | An AI driven pose detection program that implements an easy scalable algorithm to count bicep curls |
+| [deepfit-esque](https://github.com/0xVolt/DNASCANNER) | An AI driven pose detection program that implements an easy scalable CV model to count bicep curls |
 
 # Tutorials
 
