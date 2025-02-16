@@ -12,7 +12,7 @@ I've contributed to high-impact projects, including distributed computing resear
 
 I value collaboration, learning new things, and coming up with creative solutions to problems. My curiosity and passion for problem solving motivate me to contribute to the future of AI by developing systems that are clear, efficient, and meaningful. I'd love to connect and discuss ideas or opportunities in technology and research!
 
-This `README` is a list of all the repositories of code pertaining to a multitude of domains. These repos are either on my GitHub or on other sites.
+This `README` is a list of all my public repositories hosted either on my GitHub or on other domains.
 
 ***
 
