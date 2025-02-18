@@ -110,7 +110,6 @@ This `README` is a list of all my public repositories hosted either on my GitHub
 | [learn-cmake](https://github.com/0xVolt/learn-cmake) | A repository to learn how to compile C++ projects using cmake and make |
 | [learn-cmake-linux](https://github.com/0xVolt/learn-cmake-linux) | A repository to document the process of getting started with CMAKE on Linux |
 | [learn-rust](https://github.com/0xVolt/learn-rust) | An introduction to a shiny new language named Rust |
-| [learn-stl](https://github.com/0xVolt/learn-stl) | A repository to reference as documentation for my study of the standard template library in C++ |
 | [learn-flask](https://github.com/0xVolt/learn-flask) | A repository to document everything I learn about the Flask framework and its implementation in Python to create backend systems for websites |
 | [learn-next.js](https://github.com/0xVolt/learn-next.js) | A repository that documents the right way to create virtual environments and link them to Jupyter kernels for deep learning projectsA repository to document learning Next.js, one of the most popular front-end frameworks in JavaScript to build user-interfaces |
 
