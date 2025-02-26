@@ -126,7 +126,6 @@ This `README` is a list of all my public repositories hosted either on my GitHub
 
 | **Repository** | **Description** |
 |---|---|
-| [not-really-my-competitive-programming](https://github.com/0xVolt/not-really-my-competitive-programming) | A collection of cp practice problems kept up-to-date to merge to a collaborative practice repository |
 | [cool-cp-questions](https://github.com/0xVolt/cool-cp-questions) | A collection of tough programming questions I've come up with |
 
 # C++
